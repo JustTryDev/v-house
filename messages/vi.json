@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "title": "V-HOUSE - Ngôi nhà Việt giữa lòng Hàn Quốc",
+    "description": "Nhà nghỉ thân thiện cho người Việt tại Incheon, chỉ 15 phút từ sân bay. Chủ nhà người Việt, dịch vụ tận tâm."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "rooms": "Phòng nghỉ",
+    "services": "Dịch vụ",
+    "location": "Vị trí",
+    "contact": "Liên hệ",
+    "booking": "Đặt phòng"
+  },
+  "hero": {
+    "badge": "Chỉ 15 phút từ sân bay Incheon",
+    "titleLine1": "Chào mừng đến",
+    "titleLine2": "V-HOUSE",
+    "subtitle": "Ngôi nhà Việt giữa lòng Hàn Quốc",
+    "description": "Nghỉ ngơi thoải mái như ở nhà với chủ nhà người Việt tận tâm. Vị trí đắc địa, giá cả hợp lý.",
+    "cta": {
+      "booking": "Đặt phòng ngay",
+      "viewRooms": "Xem phòng"
+    }
+  },
+  "features": {
+    "airport": {
+      "title": "15 phút từ sân bay",
+      "description": "Gần sân bay Incheon, thuận tiện cho chuyến bay sáng sớm hoặc đêm khuya"
+    },
+    "vietnamese": {
+      "title": "Chủ nhà người Việt",
+      "description": "Giao tiếp dễ dàng, hỗ trợ tận tình như người thân"
+    },
+    "price": {
+      "title": "Giá hợp lý",
+      "description": "Chỉ từ 50,000 won/đêm, trẻ em dưới 12 tuổi miễn phí"
+    }
+  },
+  "services": {
+    "title": "Dịch vụ miễn phí",
+    "subtitle": "Tất cả những gì bạn cần cho một chuyến đi thoải mái",
+    "items": {
+      "laundry": {
+        "title": "Giặt & Sấy",
+        "description": "Máy giặt, máy sấy miễn phí"
+      },
+      "breakfast": {
+        "title": "Bữa sáng nhẹ",
+        "description": "Bánh mì, cà phê, đồ uống"
+      },
+      "parking": {
+        "title": "Đỗ xe miễn phí",
+        "description": "Bãi đậu xe trong tòa nhà"
+      },
+      "kitchen": {
+        "title": "Sử dụng bếp",
+        "description": "Bếp gas, lò vi sóng, tủ lạnh"
+      },
+      "wifi": {
+        "title": "Wifi tốc độ cao",
+        "description": "Internet nhanh và ổn định"
+      },
+      "pc": {
+        "title": "PC / In / Scan",
+        "description": "Máy tính, máy in miễn phí"
+      },
+      "usim": {
+        "title": "Hỗ trợ USIM",
+        "description": "Đăng ký sim điện thoại Hàn Quốc"
+      },
+      "transport": {
+        "title": "Nạp thẻ giao thông",
+        "description": "Nạp tiền T-money tại chỗ"
+      }
+    }
+  },
+  "rooms": {
+    "title": "Phòng nghỉ",
+    "subtitle": "Không gian ấm cúng, tiện nghi đầy đủ",
+    "price": "won/đêm",
+    "capacity": "Tối đa {count} người",
+    "bed": "Giường King size",
+    "amenities": "Tiện nghi",
+    "viewDetails": "Xem chi tiết",
+    "bookNow": "Đặt phòng",
+    "names": {
+      "happiness": "Phòng Hạnh Phúc",
+      "peace": "Phòng Bình Yên",
+      "warmth": "Phòng Ấm Áp",
+      "serenity": "Phòng An Lành",
+      "relax": "Phòng Thư Giãn",
+      "love": "Phòng Yêu Thương"
+    }
+  },
+  "location": {
+    "title": "Vị trí",
+    "subtitle": "Gần sân bay Incheon, thuận tiện di chuyển",
+    "address": "3060-35, Unseo-dong, Jung-gu, Incheon",
+    "fromAirport": "Từ sân bay Incheon",
+    "byTaxi": "Taxi: 15 phút",
+    "byBus": "Xe buýt: 20-25 phút",
+    "nearby": "Gần đây",
+    "convenience": "Cửa hàng tiện lợi (đi bộ 5 phút)",
+    "mart": "Siêu thị (xe 5 phút)"
+  },
+  "host": {
+    "title": "Chủ nhà của bạn",
+    "name": "Junie (Thanh Nhan Pham)",
+    "greeting": "Xin chào! Tôi là Junie",
+    "story": "Tôi sinh ra ở Hà Nội, Việt Nam và đến Hàn Quốc với ước mơ của mình. Tôi đã học ngành Công tác xã hội tại Đại học Seojeong và làm việc trong Hội sinh viên.\n\nTôi vẫn nhớ cảm giác cô đơn và bỡ ngỡ khi mới đến Hàn Quốc. Không biết tiếng, mọi thứ đều xa lạ. Vì vậy, tôi muốn V-HOUSE trở thành 'ngôi nhà Việt giữa lòng Hàn Quốc' cho những người Việt lần đầu đến đây.\n\nHãy để tôi giúp chuyến đi của bạn trở thành những kỷ niệm ấm áp nhé!"
+  },
+  "contact": {
+    "title": "Liên hệ đặt phòng",
+    "subtitle": "Chọn kênh liên hệ thuận tiện nhất cho bạn",
+    "phone": "Điện thoại",
+    "channels": {
+      "zalo": "Zalo",
+      "kakao": "KakaoTalk",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  },
+  "booking": {
+    "title": "Đặt phòng",
+    "checkIn": "Nhận phòng",
+    "checkOut": "Trả phòng",
+    "checkInTime": "từ 15:00",
+    "checkOutTime": "trước 11:00",
+    "guests": "Số khách",
+    "adults": "Người lớn",
+    "children": "Trẻ em (dưới 12 tuổi)",
+    "childrenFree": "Miễn phí",
+    "selectRoom": "Chọn phòng",
+    "guestInfo": "Thông tin khách",
+    "name": "Họ tên",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "country": "Quốc tịch",
+    "specialRequests": "Yêu cầu đặc biệt",
+    "specialRequestsPlaceholder": "Ví dụ: đến muộn, cần giường phụ...",
+    "totalPrice": "Tổng tiền",
+    "nights": "đêm",
+    "submit": "Gửi yêu cầu đặt phòng",
+    "success": {
+      "title": "Đã gửi yêu cầu thành công!",
+      "message": "Chúng tôi sẽ liên hệ xác nhận trong thời gian sớm nhất."
+    }
+  },
+  "footer": {
+    "rights": "Bản quyền thuộc về V-HOUSE",
+    "address": "3060-35, Unseo-dong, Jung-gu, Incheon, Hàn Quốc"
+  },
+  "common": {
+    "viewMore": "Xem thêm",
+    "close": "Đóng",
+    "loading": "Đang tải...",
+    "error": "Có lỗi xảy ra",
+    "required": "Bắt buộc"
+  }
+}

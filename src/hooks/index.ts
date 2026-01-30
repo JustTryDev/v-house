@@ -29,3 +29,8 @@ export { useCountUp } from "./useCountUp"
 
 // 스크롤 애니메이션: 요소가 화면에 보이면 애니메이션 시작
 export { useScrollAnimation } from "./useScrollAnimation"
+
+// ==================== API 관련 훅 ====================
+
+// 환율: 실시간 VND 환율 조회
+export { useExchangeRate } from "./useExchangeRate"

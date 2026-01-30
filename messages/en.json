@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "title": "V-HOUSE - Your Vietnamese Home in Korea",
+    "description": "Friendly guesthouse for Vietnamese travelers in Incheon, just 15 minutes from the airport. Vietnamese-speaking host."
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "services": "Services",
+    "location": "Location",
+    "contact": "Contact",
+    "booking": "Book Now"
+  },
+  "hero": {
+    "badge": "Just 15 minutes from Incheon Airport",
+    "titleLine1": "Welcome to",
+    "titleLine2": "V-HOUSE",
+    "subtitle": "Your Vietnamese Home in Korea",
+    "description": "Experience warm hospitality with a Vietnamese host. Convenient location, affordable prices.",
+    "cta": {
+      "booking": "Book Now",
+      "viewRooms": "View Rooms"
+    }
+  },
+  "features": {
+    "airport": {
+      "title": "15 min from Airport",
+      "description": "Near Incheon Airport, perfect for early or late flights"
+    },
+    "vietnamese": {
+      "title": "Vietnamese Host",
+      "description": "Easy communication, caring service like family"
+    },
+    "price": {
+      "title": "Affordable Price",
+      "description": "From ₩50,000/night, children under 12 stay free"
+    }
+  },
+  "services": {
+    "title": "Free Services",
+    "subtitle": "Everything you need for a comfortable stay",
+    "items": {
+      "laundry": {
+        "title": "Laundry & Dryer",
+        "description": "Free washing machine and dryer"
+      },
+      "breakfast": {
+        "title": "Light Breakfast",
+        "description": "Toast, coffee, and beverages"
+      },
+      "parking": {
+        "title": "Free Parking",
+        "description": "Parking available in building"
+      },
+      "kitchen": {
+        "title": "Kitchen Access",
+        "description": "Gas stove, microwave, refrigerator"
+      },
+      "wifi": {
+        "title": "High-Speed WiFi",
+        "description": "Fast and stable internet"
+      },
+      "pc": {
+        "title": "PC / Print / Scan",
+        "description": "Computer and printer available"
+      },
+      "usim": {
+        "title": "USIM Support",
+        "description": "Help with Korean SIM registration"
+      },
+      "transport": {
+        "title": "T-money Top-up",
+        "description": "Charge transport card on-site"
+      }
+    }
+  },
+  "rooms": {
+    "title": "Our Rooms",
+    "subtitle": "Cozy and well-equipped spaces",
+    "price": "won/night",
+    "capacity": "Up to {count} guests",
+    "bed": "King-size bed",
+    "amenities": "Amenities",
+    "viewDetails": "View Details",
+    "bookNow": "Book Now",
+    "names": {
+      "happiness": "Happiness Room",
+      "peace": "Peace Room",
+      "warmth": "Warmth Room",
+      "serenity": "Serenity Room",
+      "relax": "Relaxation Room",
+      "love": "Love Room"
+    }
+  },
+  "location": {
+    "title": "Location",
+    "subtitle": "Near Incheon Airport, easy access",
+    "address": "3060-35, Unseo-dong, Jung-gu, Incheon, Korea",
+    "fromAirport": "From Incheon Airport",
+    "byTaxi": "Taxi: 15 minutes",
+    "byBus": "Bus: 20-25 minutes",
+    "nearby": "Nearby",
+    "convenience": "Convenience store (5 min walk)",
+    "mart": "Supermarket (5 min drive)"
+  },
+  "host": {
+    "title": "Meet Your Host",
+    "name": "Junie (Thanh Nhan Pham)",
+    "greeting": "Hello! I'm Junie",
+    "story": "I was born in Hanoi, Vietnam and came to Korea with my dreams. I studied Social Welfare at Seojeong University and was active in student council.\n\nI still remember how lonely and lost I felt when I first arrived in Korea. I couldn't speak the language, and everything was unfamiliar. That's why I started V-HOUSE - to be a 'Vietnamese home in Korea' for those who are new here, just like I was.\n\nLet me help make your trip to Korea a warm memory!"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Choose your preferred way to reach us",
+    "phone": "Phone",
+    "channels": {
+      "zalo": "Zalo",
+      "kakao": "KakaoTalk",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  },
+  "booking": {
+    "title": "Make a Reservation",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "checkInTime": "from 3:00 PM",
+    "checkOutTime": "by 11:00 AM",
+    "guests": "Guests",
+    "adults": "Adults",
+    "children": "Children (under 12)",
+    "childrenFree": "Free",
+    "selectRoom": "Select Room",
+    "guestInfo": "Guest Information",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "country": "Nationality",
+    "specialRequests": "Special Requests",
+    "specialRequestsPlaceholder": "e.g., late arrival, extra bedding needed...",
+    "totalPrice": "Total",
+    "nights": "nights",
+    "submit": "Submit Reservation",
+    "success": {
+      "title": "Reservation Submitted!",
+      "message": "We will contact you shortly to confirm."
+    }
+  },
+  "footer": {
+    "rights": "V-HOUSE. All rights reserved.",
+    "address": "3060-35, Unseo-dong, Jung-gu, Incheon, Korea"
+  },
+  "common": {
+    "viewMore": "View More",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "required": "Required"
+  }
+}

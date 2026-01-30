@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "title": "V-HOUSE - 한국 속 베트남의 집",
+    "description": "인천공항 15분 거리, 베트남인 호스트가 운영하는 따뜻한 게스트하우스. 베트남어 소통 가능."
+  },
+  "nav": {
+    "home": "홈",
+    "rooms": "객실",
+    "services": "서비스",
+    "location": "위치",
+    "contact": "문의",
+    "booking": "예약"
+  },
+  "hero": {
+    "badge": "인천공항에서 단 15분",
+    "titleLine1": "V-HOUSE에",
+    "titleLine2": "오신 것을 환영합니다",
+    "subtitle": "한국 속 베트남의 집",
+    "description": "베트남인 호스트의 따뜻한 환대. 집처럼 편안한 휴식을 제공합니다.",
+    "cta": {
+      "booking": "예약하기",
+      "viewRooms": "객실 보기"
+    }
+  },
+  "features": {
+    "airport": {
+      "title": "공항 15분 거리",
+      "description": "인천공항 근처, 새벽/심야 비행기에 최적"
+    },
+    "vietnamese": {
+      "title": "베트남인 호스트",
+      "description": "베트남어 소통 가능, 친절한 안내"
+    },
+    "price": {
+      "title": "합리적인 가격",
+      "description": "1박 50,000원부터, 12세 이하 무료"
+    }
+  },
+  "services": {
+    "title": "무료 서비스",
+    "subtitle": "편안한 여행을 위한 모든 것",
+    "items": {
+      "laundry": {
+        "title": "세탁/건조",
+        "description": "세탁기, 건조기 무료 이용"
+      },
+      "breakfast": {
+        "title": "가벼운 아침",
+        "description": "토스트, 커피, 음료 제공"
+      },
+      "parking": {
+        "title": "무료 주차",
+        "description": "건물 내 주차장"
+      },
+      "kitchen": {
+        "title": "주방 사용",
+        "description": "가스레인지, 전자레인지, 냉장고"
+      },
+      "wifi": {
+        "title": "고속 와이파이",
+        "description": "빠르고 안정적인 인터넷"
+      },
+      "pc": {
+        "title": "PC/프린트/스캔",
+        "description": "컴퓨터, 프린터 무료 이용"
+      },
+      "usim": {
+        "title": "USIM 지원",
+        "description": "한국 유심 등록 도움"
+      },
+      "transport": {
+        "title": "교통카드 충전",
+        "description": "T-money 현장 충전"
+      }
+    }
+  },
+  "rooms": {
+    "title": "객실 안내",
+    "subtitle": "아늑하고 편안한 공간",
+    "price": "원/박",
+    "capacity": "최대 {count}명",
+    "bed": "킹사이즈 침대",
+    "amenities": "편의시설",
+    "viewDetails": "상세보기",
+    "bookNow": "예약하기",
+    "names": {
+      "happiness": "행복의 방",
+      "peace": "평화의 방",
+      "warmth": "따뜻한 방",
+      "serenity": "평안의 방",
+      "relax": "휴식의 방",
+      "love": "사랑의 방"
+    }
+  },
+  "location": {
+    "title": "위치",
+    "subtitle": "인천공항 근처, 편리한 교통",
+    "address": "인천 중구 운서동 3060-35",
+    "fromAirport": "인천공항에서",
+    "byTaxi": "택시: 15분",
+    "byBus": "버스: 20-25분",
+    "nearby": "주변 시설",
+    "convenience": "편의점 (도보 5분)",
+    "mart": "마트 (차량 5분)"
+  },
+  "host": {
+    "title": "호스트 소개",
+    "name": "쭈니 (Thanh Nhan Pham)",
+    "greeting": "안녕하세요! 쭈니입니다",
+    "story": "저는 베트남 하노이에서 태어나 꿈을 안고 한국에 왔어요. 서정대학교에서 사회복지학을 전공하며 총학생회 활동도 했죠.\n\n처음 한국에 왔을 때 얼마나 외롭고 막막했는지 아직도 기억나요. 말도 통하지 않고, 모든 게 낯설었죠. 그래서 저처럼 한국이 처음인 베트남 분들에게 '한국 속 베트남의 집'이 되어드리고 싶어서 V-HOUSE를 시작했어요.\n\n여러분의 한국 여행이 따뜻한 추억이 되도록 도와드릴게요!"
+  },
+  "contact": {
+    "title": "예약 문의",
+    "subtitle": "편한 방법으로 연락주세요",
+    "phone": "전화",
+    "channels": {
+      "zalo": "Zalo",
+      "kakao": "카카오톡",
+      "facebook": "페이스북",
+      "instagram": "인스타그램"
+    }
+  },
+  "booking": {
+    "title": "예약하기",
+    "checkIn": "체크인",
+    "checkOut": "체크아웃",
+    "checkInTime": "15:00부터",
+    "checkOutTime": "11:00까지",
+    "guests": "인원",
+    "adults": "성인",
+    "children": "어린이 (12세 이하)",
+    "childrenFree": "무료",
+    "selectRoom": "객실 선택",
+    "guestInfo": "예약자 정보",
+    "name": "이름",
+    "email": "이메일",
+    "phone": "전화번호",
+    "country": "국적",
+    "specialRequests": "특별 요청사항",
+    "specialRequestsPlaceholder": "예: 늦은 도착, 추가 침구 필요...",
+    "totalPrice": "총 금액",
+    "nights": "박",
+    "submit": "예약 신청",
+    "success": {
+      "title": "예약 신청 완료!",
+      "message": "빠른 시간 내에 연락드리겠습니다."
+    }
+  },
+  "footer": {
+    "rights": "V-HOUSE. All rights reserved.",
+    "address": "인천 중구 운서동 3060-35"
+  },
+  "common": {
+    "viewMore": "더보기",
+    "close": "닫기",
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "required": "필수"
+  }
+}
