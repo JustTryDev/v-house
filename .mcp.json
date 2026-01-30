@@ -1,0 +1,29 @@
+{
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest"
+      ]
+    },
+    "context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp@latest"
+      ]
+    },
+    "convex": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "convex",
+        "mcp",
+        "start",
+        "--project-dir",
+        "."
+      ]
+    }
+  }
+}
