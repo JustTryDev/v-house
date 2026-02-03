@@ -48,6 +48,7 @@ function TypingText({ text, delay = 0, className = "" }: TypingTextProps) {
   };
 
   // 각 문자의 애니메이션
+  // as const를 붙여서 "easeOut"이 정확한 값임을 TypeScript에게 알려줍니다
   const characterVariants = {
     hidden: {
       opacity: 0,
@@ -58,7 +59,7 @@ function TypingText({ text, delay = 0, className = "" }: TypingTextProps) {
       y: 0,
       transition: {
         duration: 0.3,
-        ease: "easeOut",
+        ease: "easeOut" as const,
       },
     },
   };
